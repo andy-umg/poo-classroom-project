@@ -1,0 +1,13 @@
+com\mycompany\poo\classroom\project\ProductoAlimenticio.class
+com\mycompany\poo\classroom\project\ProductoElectronico.class
+com\mycompany\poo\classroom\project\CalculadorDePrecio.class
+com\mycompany\poo\classroom\project\GestorDeDescuentos.class
+com\mycompany\poo\classroom\project\CalculadorDePrecioPorCategoria.class
+com\mycompany\poo\classroom\project\GestorDeInventario.class
+com\mycompany\poo\classroom\project\Producto.class
+com\mycompany\poo\classroom\project\CalculadorDePrecioSinDescuento.class
+com\mycompany\poo\classroom\project\PooClassroomProject.class
+com\mycompany\poo\classroom\project\Categoria.class
+com\mycompany\poo\classroom\project\CalculadorDePrecioConDescuento.class
+com\mycompany\poo\classroom\project\Proveedor.class
+com\mycompany\poo\classroom\project\Descuento.class
